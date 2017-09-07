@@ -21,3 +21,7 @@ Thumbs.db
 *.tar
 *.zip
 
+# Files and pdfs #
+##################
+*.pdf
+[^.]*
